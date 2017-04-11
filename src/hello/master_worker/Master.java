@@ -57,5 +57,6 @@ public class Master {
             entry.getValue().start();
 
         }
+        System.out.println("---------------------");
     }
 }
